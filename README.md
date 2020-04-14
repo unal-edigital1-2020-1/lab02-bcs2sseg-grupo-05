@@ -9,6 +9,8 @@ En esta plantilla debe adicionar la documentación del laboratorio
 
 ## BCD to 7Seg
 Un decodificador de BCD a 7Seg es un elemento electronico el cual tiene la capacidad de transformar una entrada de cuaro cables en una salida de 7 (u 8 cables dependiendo si se quiere usar el punto decimal) los cuales encienden unos leds de tal forma que en el display se muestra un núnmero.
+
+
 ![7Seg](https://github.com/unal-edigital1-2020-1/lab02-bcs2sseg-grupo-05/blob/master/files/7Seg.jpg)
 
 
