@@ -1,22 +1,22 @@
 `timescale 1ns / 1ps
-
+//archivo de prueba para el decodificador BCD a 7 segentos
 
 module BCDtoSSeg_TB;
 
-	// Inputs
+	// Inputs define cables de entrada 4 Bits.
 	reg [3:0] BCD;
 
-	// Outputs
+	// Outputs define las salidas 7 Bits.
 	wire [6:0] SSeg;
 
-	// Instantiate the Unit Under Test (UUT)
+	// Instantiate the Unit Under Test (UUT) (se llama a si mismo como el archivo de prueba para el archivo del decodificador.
 	BCDtoSSeg uut (
 		.BCD(BCD), 
 		.SSeg(SSeg)
 	);
 
 	initial begin
-
+	//pruebas:
 		BCD = 0; #10;
 		BCD = 1; #10;
 		BCD = 2; #10;
