@@ -4,7 +4,7 @@ laboratorio 01 simulación
 En esta plantilla debe adicionar la documentación del laboratorio
 
 * Johan Lenoardo Castellanos Ruiz
-* Nombres y Apellidos Estudiante 2
+* Miguel Andres Garcia Saenz
 * Nombres y Apellidos Estudiante 3
 
 ## BCD to 7Seg
