@@ -154,3 +154,4 @@ En esta implementación usamos la pagina LabsLand para simular el archivo del 7S
 ![7Seg simulacion Sin alteración](https://github.com/unal-edigital1-2020-1/lab02-bcs2sseg-grupo-05/blob/master/files/sin%20alteracion.png)
 
 como podemos observar en la implementación cuando usamos los valores del 0 al 3 en los switch para representar un sistema de 4 bits en el cual se muestra los numeros del 0-9 y A-F (para representar numeros 10-16). 
+En caso de usar un bit(switch diferente a los del 0-3 el sistema no lo detecta).
